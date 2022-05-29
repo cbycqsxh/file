@@ -3,14 +3,13 @@
 * 以下为列表
 > 包括文件
 >>目录
+
 | File name  | mean | 
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| .sys  |  |
+|.bat  |  |
+|.dll  |  |
+|.ini  |  |
 
-| Left-Aligned  | Center Aligned  | Right Aligned |
-| :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
+
 > 编程方法
